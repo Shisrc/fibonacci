@@ -1,0 +1,14 @@
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\bin\Debug\netcoreapp3.1\factorial.exe
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\bin\Debug\netcoreapp3.1\factorial.deps.json
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.json
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.dev.json
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\bin\Debug\netcoreapp3.1\factorial.dll
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\bin\Debug\netcoreapp3.1\factorial.pdb
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.AssemblyReference.cache
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\obj\Debug\netcoreapp3.1\factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfoInputs.cache
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfo.cs
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.CoreCompileInputs.cache
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\obj\Debug\netcoreapp3.1\factorial.dll
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\obj\Debug\netcoreapp3.1\factorial.pdb
+C:\Users\shisr\fibonacci\ConsoleApp1\factorial\obj\Debug\netcoreapp3.1\factorial.genruntimeconfig.cache
